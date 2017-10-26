@@ -1,0 +1,8 @@
+package com.JustcasuallyRevise;
+
+@FunctionalInterface
+public interface Parent {
+
+	public void medication();
+
+}

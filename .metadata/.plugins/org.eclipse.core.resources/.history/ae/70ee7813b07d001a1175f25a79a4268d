@@ -1,0 +1,22 @@
+package com.JustcasuallyRevise.SortingTreeSet;
+
+import java.util.TreeSet;
+
+public class SortingTreeSet {
+
+	public static void main(String[] args) {
+
+		TreeSet<Integer> setObj = new TreeSet<Integer>(((obj1, obj2) -> (obj1 > obj2) ? -1 : (obj1 < obj2) ? 1 : 0);
+
+		setObj.add(12);
+		setObj.add(1);
+		setObj.add(133);
+		setObj.add(23);
+		setObj.add(45);
+		setObj.add(10);
+
+		System.out.println("default  sorting :" + setObj);
+
+	}
+
+}

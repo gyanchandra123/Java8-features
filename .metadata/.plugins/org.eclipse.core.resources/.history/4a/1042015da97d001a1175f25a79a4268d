@@ -1,0 +1,11 @@
+package com.JustcasuallyRevise.RunnableInterface;
+
+public class MyInterface implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

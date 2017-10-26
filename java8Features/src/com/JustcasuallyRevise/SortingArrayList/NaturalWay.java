@@ -1,0 +1,30 @@
+package com.JustcasuallyRevise.SortingArrayList;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class NaturalWay {
+
+	public static void main(String[] args) {
+
+		ArrayList<Integer> listData = new ArrayList<Integer>();
+
+		listData.add(21);
+		listData.add(34);
+		listData.add(211);
+		listData.add(1);
+		listData.add(80);
+
+		System.out.println("before any sorting: " + listData);
+
+		Collections.sort(listData);
+
+		System.out.println("after sorting: " + listData);
+
+		Collections.sort(listData, new MyComparator());
+
+		System.out.println("custom sorting :"+listData);
+
+	}
+
+}

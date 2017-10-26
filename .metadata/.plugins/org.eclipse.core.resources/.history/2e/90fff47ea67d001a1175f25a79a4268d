@@ -1,0 +1,13 @@
+package com.JustcasuallyRevise;
+
+public class FirstlambdaCall {
+
+	public static void main(String[] args) {
+		 
+		Parent parenObj = ()-> System.out.println("the medication works fine");
+		
+		
+
+	}
+
+}

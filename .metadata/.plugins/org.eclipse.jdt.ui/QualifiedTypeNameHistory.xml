@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="com.trainingW.r.tinheritance.Parent"/>
+<fullyQualifiedTypeName name="com.training.accessingWithoutLambda.ChildImplemented"/>
+<fullyQualifiedTypeName name="com.training.accessingWithLambdaHavingArguments3.Parent"/>
+<fullyQualifiedTypeName name="com.training.implementingLambdaExpressionOnThread.ordinaryWay.MyRunnable"/>
+<fullyQualifiedTypeName name="com.training.HashMap.HashMapImpl"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.training.SortingArrayListOrdinary.CustomComparator"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.TreeSet"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="com.JustcasuallyRevise.Parent"/>
+<fullyQualifiedTypeName name="com.JustcasuallyRevise.RunnableInterface.MyInterface"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.JustcasuallyRevise.SortingArrayList.MyComparator"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>
